@@ -1,7 +1,7 @@
 package com.example.Service;
 
-import com.example.Entity.AuthenticationToken;
-import com.example.Entity.User;
+import com.example.Model.AuthenticationToken;
+import com.example.Model.User;
 import com.example.Repository.IUserRepo;
 import com.example.Service.Utility.EmailHandler;
 import com.example.Service.Utility.PasswordEncrypter;

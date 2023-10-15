@@ -1,6 +1,6 @@
 package com.example.Controller;
 
-import com.example.Entity.User;
+import com.example.Model.User;
 import com.example.Service.AuthTokenUserService;
 import com.example.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;

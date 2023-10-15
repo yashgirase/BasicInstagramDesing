@@ -1,6 +1,6 @@
 package com.example.Controller;
 
-import com.example.Entity.Post;
+import com.example.Model.Post;
 import com.example.Service.AuthTokenUserService;
 import com.example.Service.PostService;
 import org.springframework.beans.factory.annotation.Autowired;

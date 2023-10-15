@@ -1,6 +1,6 @@
 package com.example.Repository;
 
-import com.example.Entity.Post;
+import com.example.Model.Post;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.web.bind.annotation.RestController;
 

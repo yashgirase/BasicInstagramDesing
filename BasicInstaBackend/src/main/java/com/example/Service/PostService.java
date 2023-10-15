@@ -1,6 +1,6 @@
 package com.example.Service;
 
-import com.example.Entity.Post;
+import com.example.Model.Post;
 import com.example.Repository.IPostRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
